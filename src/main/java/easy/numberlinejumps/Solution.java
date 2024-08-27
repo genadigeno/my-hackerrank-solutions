@@ -1,4 +1,4 @@
-package hackerrank.numberlinejumps;
+package easy.numberlinejumps;
 
 public class Solution {
 

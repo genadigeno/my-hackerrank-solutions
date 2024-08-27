@@ -1,7 +1,6 @@
-package hackerrank.breakingtherecords;
+package easy.breakingtherecords;
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 
 public class Solution {

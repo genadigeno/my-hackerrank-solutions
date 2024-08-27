@@ -1,4 +1,4 @@
-package hackerrank.appleandorange;
+package easy.appleandorange;
 
 import java.util.List;
 

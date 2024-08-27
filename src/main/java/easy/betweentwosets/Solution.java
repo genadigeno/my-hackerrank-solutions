@@ -1,4 +1,4 @@
-package hackerrank.betweentwosets;
+package easy.betweentwosets;
 
 import java.util.ArrayList;
 import java.util.List;

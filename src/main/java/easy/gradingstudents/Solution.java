@@ -1,4 +1,4 @@
-package hackerrank.gradingstudents;
+package easy.gradingstudents;
 
 import java.util.ArrayList;
 import java.util.List;

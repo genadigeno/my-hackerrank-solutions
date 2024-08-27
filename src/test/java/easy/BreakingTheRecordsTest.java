@@ -1,11 +1,9 @@
-package hackerrank;
+package easy;
 
-import hackerrank.breakingtherecords.Solution;
+import easy.breakingtherecords.Solution;
 import org.junit.jupiter.api.Test;
 
 import java.util.List;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 public class BreakingTheRecordsTest {
     List<Integer> data1 = List.of(10, 5, 20, 20, 4, 5, 2, 25, 1);//[2, 4]

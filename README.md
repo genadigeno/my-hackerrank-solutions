@@ -1,2 +1,2 @@
-# my-hackerrank-solutions
+# my-easy-solutions
 My HackerRank Solutions
