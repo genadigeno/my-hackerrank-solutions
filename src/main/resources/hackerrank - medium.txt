@@ -1,0 +1,139 @@
+Forming a Magic Square
+Climbing the Leaderboard
+Extra Long Factorials
+Non-Divisible Subset
+Queen's Attack II
+Organizing Containers of Balls
+Encryption
+Bigger is Greater
+The Time in Words
+The Grid Search
+3D Surface Area
+Absolute Permutation
+The Bomberman Game
+Ema's Supercomputer
+Larry's Array
+Almost Sorted
+The Full Counting Sort
+Fraudulent Activity Notifications
+Lily's Homework
+Sherlock and the Valid String
+Highest Value Palindrome
+Maximum Palindromes
+Sherlock and Anagrams
+Common Child
+Bear and Steady Gene
+Hackerland Radio Transmitters
+Gridland Metro
+KnightL on a Chessboard
+Minimum Loss
+Pairs
+Connected Cells in a Grid
+Short Palindrome
+Count Luck
+Cut the Tree
+Gena Playing Hanoi
+Beautiful Quadruples
+Red Knight's Shortest Path
+Roads and Libraries
+Journey to the Moon
+Synchronous Shopping
+Breadth First Search: Shortest Reach
+Kruskal (MST): Really Special Subtree
+Even Tree
+Snakes and Ladders: The Quickest Way Up
+The Story of a Tree
+Prim's (MST) : Special Subtree
+Clique
+Minimum Penalty Path
+Jack goes to Rapture
+Crab Graphs
+Jeanie's Route
+Roads in HackerLand
+Rust & Murderer
+Candies
+Greedy Florist
+Max Min
+Goodland Electricity
+Cloudy Day
+Lena Sort
+The Coin Change Problem
+Equal
+Flipping the Matrix
+Sherlock and Cost
+Gaming Array
+New Year Chaos
+Construct the Array
+Bonetrousle
+Kingdom Division
+Sam and substrings
+Fibonacci Modified
+Abbreviation
+Prime XOR
+Fair Cut
+The Maximum Subarray
+Prime Digit Sums
+HackerRank City
+Summing Pieces
+Mr K marsh
+Substring Diff
+Xor and Sum
+Lego Blocks
+Stock Maximize
+Two Robots
+Cut Tree
+Wet Shark and Two Subsequences
+Nikita and the Game
+Mandragora Forest
+Red John is Back
+LCS Returns
+Grid Walking
+Knapsack
+Bricks Game
+Coin on the Table
+The Longest Common Subsequence
+Play with words
+Counting Special Sub-Cubes
+Interval Selection
+The Indian Job
+Travel around the world
+Candles Counting
+Swap Permutation
+Extremum Permutations
+Counter game
+Xor-sequence
+The Great XOR
+Yet Another Minimax Problem
+Sansa and XOR
+AND Product
+Winning Lottery Ticket
+Cipher
+What's Next?
+A or B
+The Power Sum
+Crossword Puzzle
+Recursive Digit Sum
+Simplified Chess Engine
+Password Cracker
+Stone Division, Revisited
+Alice and Bob's Silly Game
+Tower Breakers, Revisited!
+Tower Breakers, Again!
+Zero-Move Nim
+Chessboard Game, Again!
+Digits Square Board
+Fun Game
+Chocolate in Box
+Kitty and Katty
+Powers Game
+Deforestation
+Bob and Ben
+Tower Breakers - The Final Battle
+Permutation game
+Play on benders
+New Year Game
+Vertical Rooks
+A stones game
+Prime Dates
+Minimum Operations
+Zig Zag Sequence
